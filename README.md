@@ -2,9 +2,9 @@
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning Jenkins
 - 💞️ I’m looking to collaborate on DevOps projects
-- 📫 How to reach me ...
+- 📫 How to reach me .+254729534995
 - 😄 Pronouns:
-- ⚡ Fun fact: Two hours of is better than a day
+- ⚡ Fun fact: Two hours of me is better than a day
 - <h1 align="center">Hi 👋, I'm Kipsang Kevin</h1>
 <h3 align="center">A passionate DevOps Engineer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
